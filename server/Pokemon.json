@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "659d88b6d44184e7d92ad1ca",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+        "title": "Spearow",
+        "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+        "type": "Normal",
+        "color": "White"
+    },
+    {
+        "_id": "6615669c29243ae6d9fff582",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png",
+        "title": "Alcremie",
+        "description": "Cream Pokemon. Evolved from a milcery holds a sweet and is spun by the player; Edited by Matthew",
+        "type": "Fairy",
+        "color": "Pink"
+    },
+    {
+        "_id": "660f0455c5306cb391cac7a0",
+        "image_url": "https://img.pokemondb.net/artwork/avif/greninja-ash.avif",
+        "title": "Ash Greninja",
+        "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        "type": "Water",
+        "color": "Blue"
+    },
+    {
+        "_id": "660f046cc5306cb391cac7a2",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png",
+        "title": "Froakie",
+        "description": "The Bubble Frog Pokemon",
+        "type": "Water",
+        "color": "Blue"
+    },
+    {
+        "_id": "659d88b6d44184e7d92ad1d1",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+        "title": "Jigglypuff",
+        "description": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+        "type": "Fairy",
+        "color": "Pink"
+    },
+    {
+        "_id": "660eff35c5306cb391cac682",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+        "title": "Venusaur",
+        "description": "By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power",
+        "type": "Poison",
+        "color": "Purple"
+    },
+    {
+        "_id": "670efb88c5306cb391cdc985",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png",
+        "title": "Litten",
+        "description": "It spews fire from its nostrils. While it is an adorable Fire Cat Pokémon, its temper is not to be taken lightly.",
+        "type": "Fire",
+        "color": "Red"
+    },
+    {
+        "_id": "670ff487b4308cb392ddc981",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png",
+        "title": "Umbreon",
+        "description": "This Dark Pokémon evolved from Eevee exposed to the moon’s rays. It hides silently in darkness and waits for its foes.",
+        "type": "Dark",
+        "color": "Black"
+    },
+    {
+        "_id": "6710ef34c5317db482dac782",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+        "title": "Lucario",
+        "description": "A Pokémon that can sense auras to track and hunt down opponents. It understands human speech and is loyal to its master.",
+        "type": "Fighting",
+        "color": "Brown"
+    },
+    {
+        "_id": "6711de34c6317db482eac789",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        "title": "Pikachu",
+        "description": "This Electric-type Pokémon is capable of releasing electric discharges of varying intensity.",
+        "type": "Electric",
+        "color": "Yellow"
+    },
+    {
+        "_id": "6721be34c7318db492fac785",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+        "title": "Eevee",
+        "description": "Known for its unstable genetic makeup, this normal-type Pokémon can evolve into a variety of forms depending on its environment.",
+        "type": "Normal",
+        "color": "White"
+    },
+    {
+        "_id": "6731cf45d8419eb593gbc786",
+        "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png",
+        "title": "Garchomp",
+        "description": "Garchomp, the Mach Pokémon, flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+        "type": "Dragon",
+        "color": "Gold"
+    }
+]
